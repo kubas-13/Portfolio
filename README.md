@@ -111,9 +111,9 @@
     <div class="about-text">
       <p>I'm a Unity developer passionate about in-game physics and gameplay that feels smooth and responsive.</p>
 
-      <p>Currently, I’m working on my personal project, called “BeeZit.” I’m into every part of game dev, but mainly focusing on creating fluid gameplay and integrating real world physics into games.</p>
+      <p>Currently, I’m working on my personal project, called “BeeZit.” I’m into every part of game dev, but mainly focusing on creating fluid gameplay mechanics and integrating real-world physics into gameplay.</p>
 
-      <p>In the past, I’ve released four games: two hobby projects, and two from participating in game jams. I've worked on both PC and mobile titles—mostly puzzle games, with a few horror experiments thrown in. I’ve taken part in jams like Brackeys and Mini Jam: Code for a Cause.</p>
+      <p>In the past, I’ve released four games: two hobby projects, and two from participating in game jams. I've worked on both PC and mobile titles mostly puzzle games, with a horror game. I’ve taken part in jams like Brackeys and Mini Jam: Code for a Cause.</p>
 
       <p>Outside of game dev, I spend my time in the garage messing with electronics anything from Arduino setups to salvaging old tech. I also enjoy solving physics and math problems, always trying to find a way to apply them in real-world or in my games.</p>
     </div>
